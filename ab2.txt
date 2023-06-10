@@ -1,0 +1,12 @@
+Functional programming languages
+Rather than focusing on the execution of statements, functional languages focus on the output of mathematical functions and evaluations. Each function–a reusable module of code–performs a specific task and returns a result. The result will vary depending on what data you input into the function. Some popular functional programming languages include:
+
+Scala
+
+Erlang
+
+Haskell
+
+Elixir
+
+F#

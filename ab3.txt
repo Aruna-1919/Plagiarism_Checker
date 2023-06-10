@@ -1,0 +1,16 @@
+Scripting languages
+Programmers use scripting languages to automate repetitive tasks, manage dynamic web content, or support processes in larger applications. Some common scripting languages include:
+
+PHP
+
+Ruby
+
+Python
+
+bash
+
+Perl
+
+Node.js
+
+IBM

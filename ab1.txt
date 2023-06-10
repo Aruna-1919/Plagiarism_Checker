@@ -1,0 +1,10 @@
+Procedural programming languages
+A procedural language follows a sequence of statements or commands in order to achieve a desired output. Each series of steps is called a procedure, and a program written in one of these languages will have one or more procedures within it. Common examples of procedural languages include:
+
+C and C++
+
+Java
+
+Pascal
+
+BASIC
